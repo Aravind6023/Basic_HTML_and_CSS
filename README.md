@@ -7,14 +7,14 @@ While my first web page, created during my early exploration of HTML and CSS, la
 
 The Bootstrap Design and Responsive web design task will be in responsive.
 
-Below i have attached the image of the web page or else i have given the netlify link
+I have attached an image of the webpage below, or you can access the live version through the Netlify link.
 
 Netlify Link : https://cabiinet-designs.netlify.app/
 
 NOTE : To view the responsive task i have done you can view the Bootstrap Design and Responsive web design task folder or may be you can just visit the [Responsive-Designs-ReactJS]
-(https://github.com/Aravind6023/Responsive-Designs-ReactJS)
+(https://github.com/Aravind6023/Responsive-Designs-ReactJS) and you can view images of the web pages below. I have attached screenshots for both the laptop version and the responsive mobile version.
 
-IMAGE
+IMAGES : 
 
 ![image](https://github.com/Aravind6023/Basic_HTML_and_CSS/assets/135958235/6ddffcc7-6747-4110-9602-ceb645d86780)
 
