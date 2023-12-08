@@ -11,6 +11,8 @@ Below i have attached the image of the web page or else i have given the netlify
 
 Netlify Link : https://cabiinet-designs.netlify.app/
 
+NOTE : To view the responsive task i have done you can view the Bootstrap Design and Responsive web design task folder or may be you can just visit the Responsive-Designs-ReactJS(https://github.com/Aravind6023/Responsive-Designs-ReactJS)
+
 IMAGE
 
 ![image](https://github.com/Aravind6023/Basic_HTML_and_CSS/assets/135958235/6ddffcc7-6747-4110-9602-ceb645d86780)
